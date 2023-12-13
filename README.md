@@ -1,3 +1,3 @@
 # Hackathon23-Team3
 
-## The boring team with no pun in its name
+The team too busy to find a pun for its name
